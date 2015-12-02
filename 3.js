@@ -8,7 +8,14 @@ a++;
 
 console.log(a);
 
-console.log('end');
+  console.log('end');
+  var a = [
+    0,
+    1,
+    2,
+    3
+  ];
+
 
 
 

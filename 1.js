@@ -11,3 +11,10 @@ console.log(one);
 console.log('hello');
 
 console.log('aaaa');
+
+var a = function () {};
+var b = function () {
+  var a = 1;
+  var b = 1;
+  return a + b;
+};
